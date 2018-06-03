@@ -3,9 +3,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\drag etc\DropPoint.cs">
     <Files>
       <File FileName="Assets\scripts\Path.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\drag etc\DragDropCar.cs" Line="27" Column="36" />
-      <File FileName="Assets\scripts\drag etc\DragDrop.cs" Line="72" Column="31" />
-      <File FileName="Assets\scripts\drag etc\DropPoint.cs" Line="32" Column="7" />
+      <File FileName="Assets\scripts\drag etc\DragDropCar.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\drag etc\DragDrop.cs" Line="19" Column="6" />
+      <File FileName="Assets\scripts\drag etc\DropPoint.cs" Line="17" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

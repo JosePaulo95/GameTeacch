@@ -14,7 +14,7 @@ public class DropPoint : MonoBehaviour {
 		area_ = transform.GetChild (0).GetComponent<Image>();
 		img_ = transform.GetChild (1).GetComponent<Image>();
 		if (GetComponent<BoxCollider2D> ()) {
-			GetComponent<BoxCollider2D> ().size = new Vector2 (Config.getMargemErro (), Config.getMargemErro ());
+			//GetComponent<BoxCollider2D> ().size = new Vector2 (Config.getMargemErro (), Config.getMargemErro ());
 		}
 	}
 	

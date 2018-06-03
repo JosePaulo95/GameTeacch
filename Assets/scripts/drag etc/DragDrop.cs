@@ -16,7 +16,7 @@ public class DragDrop : MonoBehaviour {
 	void Start () {
 		initial_pos_ = transform.position;
 		if (GetComponent<BoxCollider2D> ()) {
-			GetComponent<BoxCollider2D> ().size = new Vector2(Config.getMargemErro(), Config.getMargemErro());
+			//GetComponent<BoxCollider2D> ().size = new Vector2(Config.getMargemErro(), Config.getMargemErro());
 		}
 	}
 
