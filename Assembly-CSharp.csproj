@@ -66,6 +66,9 @@
      <Compile Include="Assets\scripts\drag etc\DragDrop.cs" />
      <Compile Include="Assets\scripts\drag etc\DragDropCar.cs" />
      <Compile Include="Assets\scripts\drag etc\DropPoint.cs" />
+     <Compile Include="Assets\scripts\InGameSceneLoader.cs" />
+     <Compile Include="Assets\scripts\LvlProgress.cs" />
+     <Compile Include="Assets\scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\scripts\Path.cs" />
      <None Include="Assets\Pacote drag\Fonts\Jupiter\LICENSE.txt" />
      <None Include="Assets\Pacote drag\Textures and Sprites\SF UI\Background\LICENSE.txt" />

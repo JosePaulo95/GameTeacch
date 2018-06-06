@@ -20,7 +20,7 @@ public class DragDropCar : MonoBehaviour {
 
 		atualizaSafe ();
 
-		GetComponent<BoxCollider2D> ().size = new Vector2 (Config.getMargemErro (), Config.getMargemErro ());
+		//GetComponent<BoxCollider2D> ().size = new Vector2 (Config.getMargemErro (), Config.getMargemErro ());
 		InvokeRepeating ("gradualRotation", 0, 0.01f);
 		InvokeRepeating ("atualizaSafe", 0, 0.1f);
 	}

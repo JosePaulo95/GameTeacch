@@ -4,4 +4,64 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/MenuPrincipal.unity
+    guid: 9ecf36d8e87280048ae627d250b97223
+  - enabled: 1
+    path: Assets/scenes/MenuFases.unity
+    guid: dfccc8263992f4e4e8e64465a2796aa2
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 1/nivel 1-1 bola verde.unity
+    guid: 3256b9e4331256542a863032d3c3eb48
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 1/nivel 1-2 bolas verdes.unity
+    guid: 11bfe99fde3f3ad4982575d1ce0ec177
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 1/nivel 1-4-bola futebol.unity
+    guid: 53708d024d7e95f4f97501e9e895226b
+  - enabled: 0
+    path: Assets/scenes/fases/nivel 1/nivel 1-5- carrinho.unity
+    guid: 56096be555ad1724d9426ab2e9e15641
+  - enabled: 0
+    path: Assets/scenes/fases/nivel 2/nivel 2-1- recipientes.unity
+    guid: 048f7cc913eb623438f3fd9ef04af161
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 2/nivel 2-2- formas.unity
+    guid: 74ee6848ea0e7f74cb5575d211256732
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 2/nivel 2-3- lapis tesoura.unity
+    guid: 4ae6a09e9b3545f49b0a9b655bbba0af
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 2/nivel 2-4- roupas avulsas.unity
+    guid: 78988c2e91c09774e855355dd94e92cc
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 2/nivel 2-5- talheres.unity
+    guid: f5fca54f84fd5ce4dbe9dc47e9f7e458
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 3/nivel 3-1- pictogramas animais.unity
+    guid: d56024cdf769fc044b9d421c27feb995
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 3/nivel 3-2- vestir menino.unity
+    guid: 3f15ead24b6233940a4654d556320f5f
+  - enabled: 1
+    path: "Assets/scenes/fases/nivel 3/nivel 3-3- quebra cabe\xE7a imagem.unity"
+    guid: 9e65ec7eee7380449be78cc55827c919
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 3/nivel 3-4 contar bichinhos.unity
+    guid: ec9794927b5fa3a4bb5799720f60a28f
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 4/nivel 4-1 relogio.unity
+    guid: 6695276ef732d38468d432eabdeff085
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 4/nivel 4-2 cores.unity
+    guid: 2116fa84da07c5648b8c905e74a54d44
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 4/nivel 4-3 plural.unity
+    guid: 6362e7c8c4456b1459494a59f664c31a
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 4/nivel 4-4 soma dados.unity
+    guid: b7909295f01c9e24496bfc2f716c2dc5
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 4/nivel 4-5 frase banana madura.unity
+    guid: da65c5da67387a64bb312611098f71ab

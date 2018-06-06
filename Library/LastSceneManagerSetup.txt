@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/nivel 4-3 plural.unity
+- path: Assets/scenes/MenuFases.unity
   isLoaded: 1
   isActive: 1
