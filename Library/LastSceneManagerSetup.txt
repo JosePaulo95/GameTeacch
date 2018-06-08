@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/MenuFases.unity
+- path: Assets/scenes/fases/nivel 1/nivel 1-1 bola verde.unity
   isLoaded: 1
   isActive: 1

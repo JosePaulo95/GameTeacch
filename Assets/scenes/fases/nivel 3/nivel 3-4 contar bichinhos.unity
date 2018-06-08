@@ -127,7 +127,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 47.4
+  m_Radius: 30
 --- !u!1 &299356644 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1507635121311682, guid: 24d300eed904b4d43bec297561f578d4,
@@ -147,7 +147,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 1.8}
   serializedVersion: 2
-  m_Radius: 120.36
+  m_Radius: 100
 --- !u!1 &312806563
 GameObject:
   m_ObjectHideFlags: 0
@@ -381,17 +381,17 @@ Prefab:
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: error_color_.r
-      value: 1
+      value: 0.8235294
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: error_color_.g
-      value: 1
+      value: 0.17560557
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: error_color_.b
-      value: 1
+      value: 0.17560557
       objectReference: {fileID: 0}
     - target: {fileID: 114859047588432514, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
@@ -515,7 +515,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 1.8}
   serializedVersion: 2
-  m_Radius: 120.36
+  m_Radius: 100
 --- !u!224 &408409355 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224771212319192338, guid: dd802cbafb7a00f498f4ca6a6b020528,
@@ -580,7 +580,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 47.4
+  m_Radius: 30
 --- !u!1001 &605307720
 Prefab:
   m_ObjectHideFlags: 0
@@ -1032,17 +1032,17 @@ Prefab:
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: error_color_.r
-      value: 1
+      value: 0.8235294
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: error_color_.g
-      value: 1
+      value: 0.17560557
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: error_color_.b
-      value: 1
+      value: 0.17560557
       objectReference: {fileID: 0}
     - target: {fileID: 114859047588432514, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
@@ -1339,7 +1339,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 1.8}
   serializedVersion: 2
-  m_Radius: 120.36
+  m_Radius: 100
 --- !u!1 &1194345565
 GameObject:
   m_ObjectHideFlags: 0
@@ -1582,7 +1582,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 47.4
+  m_Radius: 30
 --- !u!1001 &1625830594
 Prefab:
   m_ObjectHideFlags: 0
@@ -2253,17 +2253,17 @@ Prefab:
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: error_color_.r
-      value: 1
+      value: 0.8235294
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: error_color_.g
-      value: 1
+      value: 0.17560557
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: error_color_.b
-      value: 1
+      value: 0.17560557
       objectReference: {fileID: 0}
     - target: {fileID: 114859047588432514, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}

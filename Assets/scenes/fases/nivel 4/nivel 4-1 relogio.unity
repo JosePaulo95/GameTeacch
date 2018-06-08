@@ -156,7 +156,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 523.38, y: 773.08}
+  m_Size: {x: 356.7, y: 565.1}
   m_EdgeRadius: 0
 --- !u!1 &312806563
 GameObject:
@@ -577,12 +577,12 @@ Prefab:
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: highlight_color_.r
-      value: 0.22445859
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: highlight_color_.g
-      value: 0.9338235
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
@@ -636,12 +636,12 @@ Prefab:
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: highlight_color_.b
-      value: 0.19912416
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: highlight_color_.a
-      value: 0.672
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
@@ -1116,12 +1116,12 @@ Prefab:
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: highlight_color_.r
-      value: 0.22445859
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: highlight_color_.g
-      value: 0.9338235
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
@@ -1175,12 +1175,12 @@ Prefab:
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: highlight_color_.b
-      value: 0.19912416
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: highlight_color_.a
-      value: 0.672
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114558880441358396, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
@@ -1341,7 +1341,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 523.38, y: 773.08}
+  m_Size: {x: 356.7, y: 565.1}
   m_EdgeRadius: 0
 --- !u!1 &1320430448
 GameObject:

@@ -226,6 +226,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 224501840043343540}
+  - component: {fileID: 114127862919911360}
   m_Layer: 5
   m_Name: win menu aux
   m_TagString: Untagged
@@ -310,6 +311,17 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Pr\xF3xima"
+--- !u!114 &114127862919911360
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1989345016067546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bc5826a5e001aa46be6c6692ddc5385, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114146511361179440
 MonoBehaviour:
   m_ObjectHideFlags: 1

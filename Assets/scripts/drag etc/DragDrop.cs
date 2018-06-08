@@ -58,6 +58,7 @@ public class DragDrop : MonoBehaviour {
 				foi_dropado_certo_ = true;
 				transform.parent.GetComponent<LvlProgress> ().notifyDropCerto ();
 			} else {
+				transform.parent.GetComponent<LvlProgress> ().notifyErro ();
 				transform.position = initial_pos_;	
 			}
 		}

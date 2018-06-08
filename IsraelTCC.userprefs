@@ -1,24 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\LvlProgress.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\mg\Record.cs">
     <Files>
-      <File FileName="Assets\scripts\InGameSceneLoader.cs" Line="24" Column="39" />
-      <File FileName="Assets\scripts\LvlProgress.cs" Line="28" Column="56" />
-      <File FileName="Assets\scripts\MenuSceneLoader.cs" Line="17" Column="19" />
+      <File FileName="Assets\scripts\mg\Record.cs" Line="5" Column="25" />
+      <File FileName="Assets\scripts\mg\LvlProgress.cs" Line="10" Column="27" />
+      <File FileName="Assets\scripts\ShowRecord.cs" Line="12" Column="3" />
+      <File FileName="Assets\scripts\drag etc\DragDrop.cs" Line="64" Column="4" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="IsraelTCC" expanded="True">
-            <Node name="Assembly-CSharp" expanded="True">
-              <Node name="scripts" expanded="True">
-                <Node name="LvlProgress.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

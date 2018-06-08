@@ -62,17 +62,24 @@
      <Compile Include="Assets\Pacote drag\Scripts\ScrollDetailTexture.cs" />
      <Compile Include="Assets\Pacote drag\Scripts\ShowSliderValue.cs" />
      <Compile Include="Assets\Pacote drag\Scripts\TiltWindow.cs" />
-     <Compile Include="Assets\scripts\Config.cs" />
      <Compile Include="Assets\scripts\drag etc\DragDrop.cs" />
      <Compile Include="Assets\scripts\drag etc\DragDropCar.cs" />
+     <Compile Include="Assets\scripts\drag etc\DragDropRecipientes.cs" />
      <Compile Include="Assets\scripts\drag etc\DropPoint.cs" />
-     <Compile Include="Assets\scripts\InGameSceneLoader.cs" />
-     <Compile Include="Assets\scripts\LvlProgress.cs" />
-     <Compile Include="Assets\scripts\MenuSceneLoader.cs" />
+     <Compile Include="Assets\scripts\drag etc\DropPointRecipientes.cs" />
+     <Compile Include="Assets\scripts\memo\Card.cs" />
+     <Compile Include="Assets\scripts\memo\MemoMg.cs" />
+     <Compile Include="Assets\scripts\mg\Config.cs" />
+     <Compile Include="Assets\scripts\mg\InGameSceneLoader.cs" />
+     <Compile Include="Assets\scripts\mg\LvlProgress.cs" />
+     <Compile Include="Assets\scripts\mg\MenuSceneLoader.cs" />
+     <Compile Include="Assets\scripts\mg\Record.cs" />
      <Compile Include="Assets\scripts\Path.cs" />
+     <Compile Include="Assets\scripts\ShowRecord.cs" />
      <None Include="Assets\Pacote drag\Fonts\Jupiter\LICENSE.txt" />
      <None Include="Assets\Pacote drag\Textures and Sprites\SF UI\Background\LICENSE.txt" />
      <None Include="Assets\Pacote drag\Materials\UI-Default-No-Alpha.shader" />
+     <None Include="Assets\sprites\new\placeholder\freegui\png\README.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

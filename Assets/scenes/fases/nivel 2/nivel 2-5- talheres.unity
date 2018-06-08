@@ -232,7 +232,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 143.32
+  m_Radius: 60.99
 --- !u!1001 &605307720
 Prefab:
   m_ObjectHideFlags: 0
@@ -1963,7 +1963,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 93.5
+  m_Radius: 67.07
 --- !u!224 &1430424696 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224649489808694430, guid: 24d300eed904b4d43bec297561f578d4,
