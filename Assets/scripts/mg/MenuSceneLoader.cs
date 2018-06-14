@@ -20,6 +20,9 @@ public class MenuSceneLoader : MonoBehaviour {
 	public void menuPrincipal(){
 		SceneManager.LoadScene("MenuPrincipal");
 	}
+	public void menuOpcoes(){
+		SceneManager.LoadScene("MenuOpcoes");
+	}
 	public void carregarFaseIndex(int index){
 		SceneManager.LoadScene(index);
 	}

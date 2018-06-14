@@ -7,8 +7,9 @@ public class Record : MonoBehaviour {
 	private int id_atual = 0;
 	private static int qtde_erros = 0;
 	// Use this for initialization
-	void Start () {
+	void Awake () {
 		id_atual = PlayerPrefs.GetInt ("id_atual");
+		Debug.Log (id_atual);
 	}
 	public void setaNvl(int nvl){
 		id_atual++;
@@ -35,8 +36,8 @@ public class Record : MonoBehaviour {
 		qtde_erros++;
 		Debug.Log ("erro = " + qtde_erros);
 	}
-	public static string getRecord(){
-		int id = PlayerPrefs.GetInt ("id_atual");
+	public static string getRecord(int id){
+		//int id = PlayerPrefs.GetInt ("id_atual");
 		string data = PlayerPrefs.GetString("Data"+id);
 		string hora = PlayerPrefs.GetString("Hora"+id);
 		int nvl = PlayerPrefs.GetInt ("Nvl" + id);

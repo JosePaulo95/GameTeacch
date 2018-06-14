@@ -23,9 +23,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/scenes/fases/nivel 1/nivel 1-5- carrinho.unity
     guid: 56096be555ad1724d9426ab2e9e15641
-  - enabled: 0
-    path: Assets/scenes/fases/nivel 2/nivel 2-1- recipientes.unity
-    guid: 048f7cc913eb623438f3fd9ef04af161
   - enabled: 1
     path: Assets/scenes/fases/nivel 2/nivel 2-2- formas.unity
     guid: 74ee6848ea0e7f74cb5575d211256732
@@ -65,3 +62,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/fases/nivel 4/nivel 4-5 frase banana madura.unity
     guid: da65c5da67387a64bb312611098f71ab
+  - enabled: 1
+    path: Assets/scenes/MenuOpcoes.unity
+    guid: 1245552e918ba9744be9657728a0b828
+  - enabled: 1
+    path: Assets/scenes/fases/nivel 2/nivel 2-1- recipientes.unity
+    guid: 048f7cc913eb623438f3fd9ef04af161

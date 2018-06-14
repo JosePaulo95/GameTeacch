@@ -66,6 +66,7 @@
      <Compile Include="Assets\scripts\drag etc\DragDropCar.cs" />
      <Compile Include="Assets\scripts\drag etc\DragDropRecipientes.cs" />
      <Compile Include="Assets\scripts\drag etc\DropPoint.cs" />
+     <Compile Include="Assets\scripts\drag etc\DropPointColor.cs" />
      <Compile Include="Assets\scripts\drag etc\DropPointRecipientes.cs" />
      <Compile Include="Assets\scripts\memo\Card.cs" />
      <Compile Include="Assets\scripts\memo\MemoMg.cs" />
