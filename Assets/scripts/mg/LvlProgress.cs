@@ -8,6 +8,7 @@ public class LvlProgress : MonoBehaviour {
 	public int nvl, atv;
 	private Record refRecord;
 	private float time_inicio;
+
 	// Use this for initialization
 	void Start () {
 		refRecord = GameObject.Find ("win menu aux").GetComponent<Record> ();
@@ -35,7 +36,10 @@ public class LvlProgress : MonoBehaviour {
 		}
 	}
 	private void mostraVitoria(){
-		GameObject.Find ("win menu aux").transform.GetChild(1).gameObject.SetActive (true);
+		//GameObject.Find ("win menu aux").transform.GetChild(1).gameObject.SetActive (true);
+		GameObject.Find ("win menu aux").GetComponent<Animator>().SetTrigger("win");
+		GameObject.Find ("win menu aux").GetComponent<AudioSource> ().Stop ();
+		GameObject.Find ("win menu aux").transform.GetChild (1).GetComponent<AudioSource> ().Play ();
 		refRecord.fim (time_inicio);
 	}
 }

@@ -158,7 +158,7 @@ Prefab:
     - target: {fileID: 224771212319192338, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: -17
+      value: -19
       objectReference: {fileID: 0}
     - target: {fileID: 224771212319192338, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
@@ -497,7 +497,7 @@ Prefab:
     - target: {fileID: 224771212319192338, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: -16.8
+      value: -18.1
       objectReference: {fileID: 0}
     - target: {fileID: 224771212319192338, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
@@ -1397,7 +1397,7 @@ Prefab:
     - target: {fileID: 224771212319192338, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: -19.6
+      value: -20.3
       objectReference: {fileID: 0}
     - target: {fileID: 224771212319192338, guid: dd802cbafb7a00f498f4ca6a6b020528,
         type: 2}
@@ -1725,7 +1725,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 8934f7763af9e41ee8845ae14c5473f1, type: 2}
+  m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -2137,7 +2137,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 8934f7763af9e41ee8845ae14c5473f1, type: 2}
+  m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -2342,7 +2342,7 @@ RectTransform:
   m_GameObject: {fileID: 1957095753}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 7.875302, y: 7.875302, z: 7.875302}
+  m_LocalScale: {x: 7.875302, y: 7.9504194, z: 7.875302}
   m_Children:
   - {fileID: 1033050397}
   - {fileID: 1561564402}

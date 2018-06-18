@@ -916,7 +916,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 8934f7763af9e41ee8845ae14c5473f1, type: 2}
+  m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -1823,12 +1823,12 @@ Prefab:
     - target: {fileID: 224910243081312334, guid: 8e49787ead93a824abddaf60c0e0e38d,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -83
+      value: -113
       objectReference: {fileID: 0}
     - target: {fileID: 224910243081312334, guid: 8e49787ead93a824abddaf60c0e0e38d,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: -609
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8e49787ead93a824abddaf60c0e0e38d, type: 2}
@@ -2177,7 +2177,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 8934f7763af9e41ee8845ae14c5473f1, type: 2}
+  m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:

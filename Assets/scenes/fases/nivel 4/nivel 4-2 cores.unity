@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.20392159, g: 0.2627451, b: 0.81568635, a: 0.5}
-  m_EffectDistance: {x: 30, y: 30}
+  m_EffectDistance: {x: 75, y: 75}
   m_UseGraphicAlpha: 1
 --- !u!58 &299356646
 CircleCollider2D:
@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.9215687, g: 0.078431375, b: 0.1254902, a: 0.5}
-  m_EffectDistance: {x: 30, y: 30}
+  m_EffectDistance: {x: 75, y: 75}
   m_UseGraphicAlpha: 1
 --- !u!224 &408409355 stripped
 RectTransform:
@@ -1271,7 +1271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.9843138, g: 0.93725497, b: 0.10588236, a: 0.5}
-  m_EffectDistance: {x: 30, y: 30}
+  m_EffectDistance: {x: 75, y: 75}
   m_UseGraphicAlpha: 1
 --- !u!1001 &1262763538
 Prefab:
@@ -1616,7 +1616,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 8934f7763af9e41ee8845ae14c5473f1, type: 2}
+  m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -1977,7 +1977,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 8934f7763af9e41ee8845ae14c5473f1, type: 2}
+  m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:

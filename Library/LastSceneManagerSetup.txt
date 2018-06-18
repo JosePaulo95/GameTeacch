@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/fases/nivel 1/nivel 1-1 bola verde.unity
+- path: Assets/scenes/fases/nivel 1/nivel 1-5- carrinho.unity
   isLoaded: 1
   isActive: 1

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+[RequireComponent(typeof(AudioSource))]
 public class DragDrop : MonoBehaviour {
 	public int id_;
 	private bool selected, foi_dropado_certo_=false;
@@ -11,9 +12,13 @@ public class DragDrop : MonoBehaviour {
 	private Vector2 last_mouse_pos;
 	private enum DropState{CERTO, ERRADO, FORA};
 	private DropState estado_drop = DropState.FORA;
+	private GameObject my_drop_;
 
 	// Use this for initialization
 	void Start () {
+		AudioClip poke = Resources.Load ("poke") as AudioClip;
+		GetComponent<AudioSource> ().clip = poke;
+
 		initial_pos_ = transform.position;
 		if (GetComponent<BoxCollider2D> ()) {
 			//GetComponent<BoxCollider2D> ().size = new Vector2(Config.getMargemErro(), Config.getMargemErro());
@@ -41,6 +46,7 @@ public class DragDrop : MonoBehaviour {
 
 	public void BegingDrag(){
 		if (!foi_dropado_certo_) {
+			GetComponent<AudioSource> ().Play ();
 			OffsetX = transform.position.x - Input.mousePosition.x;
 			OffsetY = transform.position.y - Input.mousePosition.y;
 		}
@@ -57,16 +63,20 @@ public class DragDrop : MonoBehaviour {
 				transform.position = drop_pos_;
 				foi_dropado_certo_ = true;
 				transform.parent.GetComponent<LvlProgress> ().notifyDropCerto ();
+				my_drop_.SetActive (false);
+				GetComponent<AudioSource> ().Play ();
 			} else {
 				transform.parent.GetComponent<LvlProgress> ().notifyErro ();
 				transform.position = initial_pos_;	
 			}
 		}
 	}
-	public void _entrouDropPoint(bool ehPtoAdequado, Vector3 drop_point_pos){
+	public void _entrouDropPoint(bool ehPtoAdequado, Vector3 drop_point_pos, GameObject drop){
 		if (ehPtoAdequado) {
 			estado_drop = DropState.CERTO;
+			my_drop_ = drop;
 			drop_pos_ = drop_point_pos;
+
 		} else {
 			estado_drop = DropState.ERRADO;
 		}

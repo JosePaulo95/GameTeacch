@@ -247,8 +247,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   normal_color_: {r: 0, g: 0.24313727, b: 0.30980393, a: 1}
-  highlight_color_: {r: 0.23529413, g: 0.72156864, b: 0.47058827, a: 1}
-  error_color_: {r: 0.62352943, g: 0.043137256, b: 0.0627451, a: 1}
+  highlight_color_: {r: 0, g: 0.24313727, b: 0.30980393, a: 1}
+  error_color_: {r: 0, g: 0.24313727, b: 0.30980393, a: 1}
   margem_erro_: 0
   id_: 2
 --- !u!1 &267263767
@@ -741,9 +741,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f1c2d3890056f445b089d66092c7f9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  normal_color_: {r: 0.30980393, g: 0.20392159, b: 0.10980393, a: 1}
-  highlight_color_: {r: 0.23529413, g: 0.72156864, b: 0.47058827, a: 1}
-  error_color_: {r: 0.62352943, g: 0.043137256, b: 0.0627451, a: 1}
+  normal_color_: {r: 0, g: 0.24313727, b: 0.30980393, a: 1}
+  highlight_color_: {r: 0, g: 0.24313727, b: 0.30980393, a: 1}
+  error_color_: {r: 0, g: 0.24313727, b: 0.30980393, a: 1}
   margem_erro_: 0
   id_: 1
 --- !u!1001 &896139524
@@ -1145,7 +1145,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 8934f7763af9e41ee8845ae14c5473f1, type: 2}
+  m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -1407,7 +1407,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.90196085, g: 0.90196085, b: 0.90196085, a: 1}
+  m_BackGroundColor: {r: 0, g: 0.5882353, b: 0.7568628, a: 1}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -1493,7 +1493,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 8934f7763af9e41ee8845ae14c5473f1, type: 2}
+  m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -1538,7 +1538,7 @@ RectTransform:
   m_GameObject: {fileID: 1953753538}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 7.875302, y: 7.875302, z: 7.875302}
+  m_LocalScale: {x: 7.875302, y: 7.973793, z: 7.875302}
   m_Children:
   - {fileID: 1818475222}
   - {fileID: 1497667039}

@@ -29,7 +29,7 @@ public class DropPointColor : MonoBehaviour {
 		DragDrop drag = collision.GetComponent<DragDrop> ();
 		if (drag != null) {
 			if (drag.id_ == id_) {
-				drag._entrouDropPoint (true, transform.position);
+				drag._entrouDropPoint (true, transform.position, this.gameObject);
 				area_.color = highlight_color_;		
 				//area_.sprite = img_correto_;
 			} else {

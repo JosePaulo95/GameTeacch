@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+[RequireComponent(typeof(AudioSource))]
 public class DragDropRecipientes : MonoBehaviour {
 	public int id_;
 	private bool selected, foi_dropado_certo_=false;
@@ -12,8 +13,13 @@ public class DragDropRecipientes : MonoBehaviour {
 	private enum DropState{CERTO, ERRADO, FORA};
 	private DropState estado_drop = DropState.FORA;
 	private static int counter_ = 0;
+
 	// Use this for initialization
 	void Start () {
+		AudioClip poke = Resources.Load ("poke") as AudioClip;
+		GetComponent<AudioSource> ().clip = poke;
+
+		counter_ = 0;
 		initial_pos_ = transform.position;
 		if (GetComponent<BoxCollider2D> ()) {
 			//GetComponent<BoxCollider2D> ().size = new Vector2(Config.getMargemErro(), Config.getMargemErro());
@@ -41,6 +47,7 @@ public class DragDropRecipientes : MonoBehaviour {
 
 	public void BegingDrag(){
 		if (!foi_dropado_certo_) {
+			GetComponent<AudioSource> ().Play ();
 			OffsetX = transform.position.x - Input.mousePosition.x;
 			OffsetY = transform.position.y - Input.mousePosition.y;
 		}
@@ -48,6 +55,7 @@ public class DragDropRecipientes : MonoBehaviour {
 
 	public void OnDrag(){
 		if (!foi_dropado_certo_) {
+			
 			transform.position = new Vector2 (OffsetX + Input.mousePosition.x, OffsetY + Input.mousePosition.y);
 		}
 	}
@@ -66,6 +74,7 @@ public class DragDropRecipientes : MonoBehaviour {
 				}
 				foi_dropado_certo_ = true;
 				transform.parent.GetComponent<LvlProgress> ().notifyDropCerto ();
+				GetComponent<AudioSource> ().Play ();
 			} else {
 				transform.position = initial_pos_;	
 			}
