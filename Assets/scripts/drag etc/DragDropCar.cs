@@ -9,18 +9,20 @@ public class DragDropCar : MonoBehaviour {
 	private float OffsetX, OffsetY, target_angle, lerp_rotation=0;
 	private Vector3 initial_pos_, drop_pos_, last_mouse_distant_pos;
 	private Vector3 last_safe_pos_;
-	private Quaternion last_safe_rotation_;
+	private Quaternion last_safe_rotation_, initial_rotation_;
 	private Vector2 last_mouse_pos;
 	private enum DropState{CERTO, ERRADO, FORA};
 	private DropState estado_drop = DropState.FORA;
-
+	private float maior_x;
 	// Use this for initialization
 	void Start () {
+		maior_x = transform.position.x;
 		initial_pos_ = transform.position;
-
+		initial_rotation_ = transform.rotation;
 		atualizaSafe ();
 
 		//GetComponent<BoxCollider2D> ().size = new Vector2 (Config.getMargemErro (), Config.getMargemErro ());
+		InvokeRepeating("checaMaiorX", 0.1f, 0.1f);
 		InvokeRepeating ("gradualRotation", 0, 0.01f);
 		InvokeRepeating ("atualizaSafe", 0, 0.1f);
 	}
@@ -30,6 +32,11 @@ public class DragDropCar : MonoBehaviour {
 			selected = false;
 		}
 	}
+	private void checaMaiorX ( ){
+		if (transform.position.x > maior_x) {
+			maior_x = transform.position.x;
+		}
+	}
 	private void atualizaSafe(){
 		if (!bateu_barreira_) {
 			last_safe_pos_ = transform.position;
@@ -37,8 +44,12 @@ public class DragDropCar : MonoBehaviour {
 		}
 	}
 	private void voltaPraSafe(){
-		transform.position = last_safe_pos_;
-		transform.rotation = last_safe_rotation_;
+		if (transform.position.x > initial_pos_.x) {
+			transform.position = new Vector3 (transform.position.x, initial_pos_.y, 0);
+		} else {
+			transform.position = new Vector3 (initial_pos_.x, initial_pos_.y, 0);
+		}
+		//transform.rotation = Quaternion.identity;
 	}
 	public void OnMouseOver(){
 		if (Input.GetMouseButtonDown(0)){
@@ -72,11 +83,12 @@ public class DragDropCar : MonoBehaviour {
 		);
 	}
 	private void atualizaPos(){
+		//transform.Translate (Time.dellast_mouse_distant_pos.x - Input.mousePosition.x,last_mouse_distant_pos.y - Input.mousePosition.y,0);
 		transform.position = new Vector2 (OffsetX + Input.mousePosition.x, OffsetY + Input.mousePosition.y);
 	}
 	private void atualizaRot(){
 		float angle = AngleBetweenTwoPoints(transform.position, new Vector3 (OffsetX + Input.mousePosition.x, OffsetY + Input.mousePosition.y, 0));
-		if (Vector3.Distance (transform.position, last_mouse_distant_pos) > 20) {
+		if (Vector3.Distance (transform.position, last_mouse_distant_pos) > 10) {
 			//transform.rotation = Quaternion.Euler (new Vector3(0f,0f,180+angle));
 			target_angle = 180+angle;
 			lerp_rotation = 0;
@@ -103,6 +115,7 @@ public class DragDropCar : MonoBehaviour {
 	}
 	public void _entrouDropPoint(bool ehPtoAdequado, Vector3 drop_point_pos){
 		if (ehPtoAdequado) {
+			foi_dropado_certo_ = ehPtoAdequado;
 			estado_drop = DropState.CERTO;
 			drop_pos_ = drop_point_pos;
 		} else {

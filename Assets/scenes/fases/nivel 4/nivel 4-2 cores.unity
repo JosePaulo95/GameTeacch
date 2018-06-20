@@ -163,7 +163,7 @@ CircleCollider2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 299356644}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -485,7 +485,7 @@ CircleCollider2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 408096930}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -699,6 +699,11 @@ Prefab:
         type: 2}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 58992947497903674, guid: 24d300eed904b4d43bec297561f578d4,
+        type: 2}
+      propertyPath: m_Radius
+      value: 307.8
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 61621465018209054, guid: 24d300eed904b4d43bec297561f578d4, type: 2}
@@ -1250,7 +1255,7 @@ CircleCollider2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1151911879}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -2151,6 +2156,11 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 58992947497903674, guid: 24d300eed904b4d43bec297561f578d4,
+        type: 2}
+      propertyPath: m_Radius
+      value: 307.8
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 61621465018209054, guid: 24d300eed904b4d43bec297561f578d4, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 24d300eed904b4d43bec297561f578d4, type: 2}
@@ -2377,6 +2387,11 @@ Prefab:
         type: 2}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 58992947497903674, guid: 24d300eed904b4d43bec297561f578d4,
+        type: 2}
+      propertyPath: m_Radius
+      value: 307.8
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 61621465018209054, guid: 24d300eed904b4d43bec297561f578d4, type: 2}

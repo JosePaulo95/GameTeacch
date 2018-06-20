@@ -1166,6 +1166,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1564733002}
+  - component: {fileID: 1564733005}
   - component: {fileID: 1564733004}
   - component: {fileID: 1564733003}
   m_Layer: 5
@@ -1233,6 +1234,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4084656e6dfa624284023ce8ab45a73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  refLvlProgress: {fileID: 1564733005}
+--- !u!114 &1564733005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1564733001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ec5b14732843540840c9bd3cdfc712, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nvl: 3
+  atv: 5
 --- !u!1 &1760441793
 GameObject:
   m_ObjectHideFlags: 0

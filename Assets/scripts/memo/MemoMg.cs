@@ -6,6 +6,7 @@ public class MemoMg : MonoBehaviour {
 	private Card carta_anterior;
 	private int count = 0;
 	private int qtde_certos_ = 0;
+	public LvlProgress refLvlProgress;
 
 	// Use this for initialization
 	void Start () {
@@ -21,18 +22,15 @@ public class MemoMg : MonoBehaviour {
 			carta_anterior = c;
 		} else {
 			if (c.id != carta_anterior.id) {
+				refLvlProgress.notifyErro ();
 				c.vira ();
 				carta_anterior.vira ();
 			} else {
 				qtde_certos_++;
-				if (qtde_certos_ == 3) {
-					Invoke ("mostraVitoria",0.3f);
-				}
+				refLvlProgress.notifyDropCerto ();
+				refLvlProgress.notifyDropCerto ();
 			}
 		}
 		count++;
-	}
-	private void mostraVitoria(){
-		GameObject.Find ("win menu aux").transform.GetChild(1).gameObject.SetActive (true);
 	}
 }

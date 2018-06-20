@@ -47,7 +47,7 @@ public class DragDropRecipientes : MonoBehaviour {
 
 	public void BegingDrag(){
 		if (!foi_dropado_certo_) {
-			GetComponent<AudioSource> ().Play ();
+			//GetComponent<AudioSource> ().Play ();
 			OffsetX = transform.position.x - Input.mousePosition.x;
 			OffsetY = transform.position.y - Input.mousePosition.y;
 		}

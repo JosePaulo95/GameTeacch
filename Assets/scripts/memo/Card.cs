@@ -8,17 +8,17 @@ public class Card : MonoBehaviour {
 	public MemoMg refMemoMg;
 	public int id;
 	private bool face_para_baixo = true;
+
 	// Use this for initialization
 	void Start () {
 		GetComponent<Image> ().sprite = img1;
 	}
-	
 	// Update is called once per frame
 	void Update () {
 		
 	}
 	public void vira(){
-		Invoke ("viraAux", 0.5f);
+		Invoke ("viraAux", 1);
 	}
 	private void viraAux(){
 		face_para_baixo = true;

@@ -20,7 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/fases/nivel 1/nivel 1-4-bola futebol.unity
     guid: 53708d024d7e95f4f97501e9e895226b
-  - enabled: 0
+  - enabled: 1
     path: Assets/scenes/fases/nivel 1/nivel 1-5- carrinho.unity
     guid: 56096be555ad1724d9426ab2e9e15641
   - enabled: 1
