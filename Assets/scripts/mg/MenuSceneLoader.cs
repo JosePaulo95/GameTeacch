@@ -23,6 +23,9 @@ public class MenuSceneLoader : MonoBehaviour {
 	public void menuOpcoes(){
 		SceneManager.LoadScene("MenuOpcoes");
 	}
+	public void carregaAbout(){
+		SceneManager.LoadScene("MenuSobre");
+	}
 	public void carregarFaseIndex(int index){
 		index--;
 		int[] lvls = new int[]{ 2, 3, 0, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,20 };

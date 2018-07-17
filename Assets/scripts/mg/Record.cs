@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//Data | Horário | Nível X | Atividade X | Qtd. de Erros | Tempo decorrido
+[RequireComponent(typeof(AudioSource))]
 public class Record : MonoBehaviour {
 	private int id_atual = 0;
 	private static int qtde_erros = 0;
@@ -10,6 +10,11 @@ public class Record : MonoBehaviour {
 	void Awake () {
 		id_atual = PlayerPrefs.GetInt ("id_atual");
 		Debug.Log (id_atual);
+	}
+	void Start () {
+		//if (Config.getEstaMscAtivada()) {
+		//	GetComponent<AudioSource> ().Play ();
+		//}
 	}
 	public void setaNvl(int nvl){
 		id_atual++;

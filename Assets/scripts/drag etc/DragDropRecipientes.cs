@@ -13,6 +13,7 @@ public class DragDropRecipientes : MonoBehaviour {
 	private enum DropState{CERTO, ERRADO, FORA};
 	private DropState estado_drop = DropState.FORA;
 	private static int counter_ = 0;
+	public GameObject sombra_;
 
 	// Use this for initialization
 	void Start () {
@@ -47,6 +48,9 @@ public class DragDropRecipientes : MonoBehaviour {
 
 	public void BegingDrag(){
 		if (!foi_dropado_certo_) {
+			if (sombra_) {
+				sombra_.SetActive (false);
+			}
 			//GetComponent<AudioSource> ().Play ();
 			OffsetX = transform.position.x - Input.mousePosition.x;
 			OffsetY = transform.position.y - Input.mousePosition.y;
@@ -76,6 +80,10 @@ public class DragDropRecipientes : MonoBehaviour {
 				transform.parent.GetComponent<LvlProgress> ().notifyDropCerto ();
 				GetComponent<AudioSource> ().Play ();
 			} else {
+				if (sombra_) {
+					sombra_.SetActive (true);
+				}
+				transform.parent.GetComponent<LvlProgress> ().notifyErro ();
 				transform.position = initial_pos_;	
 			}
 		}

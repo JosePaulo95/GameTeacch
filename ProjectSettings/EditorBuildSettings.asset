@@ -71,3 +71,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/MenuOpcoes.unity
     guid: 1245552e918ba9744be9657728a0b828
+  - enabled: 1
+    path: Assets/scenes/MenuSobre.unity
+    guid: 882710622f5db3c4baae27ef84a902d7

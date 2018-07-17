@@ -10,9 +10,15 @@ public class ShowRecord : MonoBehaviour {
 	void Start () {
 		string a = "";
 		int id_atual = PlayerPrefs.GetInt ("id_atual");
-		for (int i = 0; i <= id_atual; i++) {
-			a += (i+1)+". "+ Record.getRecord (i);
-			a += "\n";
+		int j;
+		int lim = 200;
+		Debug.Log (id_atual);
+		for (int i = 0; i <= lim; i++) {
+			j = id_atual - lim + i;
+			if(j >= 0){
+				a += (i)+". "+ Record.getRecord (j);
+				a += "\n";
+			}
 		}
 		GetComponent<Text> ().text = a;
 	}

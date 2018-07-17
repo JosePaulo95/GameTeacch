@@ -13,6 +13,7 @@ public class DragDrop : MonoBehaviour {
 	private enum DropState{CERTO, ERRADO, FORA};
 	private DropState estado_drop = DropState.FORA;
 	private GameObject my_drop_;
+	public GameObject sombra_;
 
 	// Use this for initialization
 	void Start () {
@@ -46,6 +47,9 @@ public class DragDrop : MonoBehaviour {
 
 	public void BegingDrag(){
 		if (!foi_dropado_certo_) {
+			if (sombra_) {
+				sombra_.SetActive (false);
+			}
 			//GetComponent<AudioSource> ().Play ();
 			OffsetX = transform.position.x - Input.mousePosition.x;
 			OffsetY = transform.position.y - Input.mousePosition.y;
@@ -60,15 +64,34 @@ public class DragDrop : MonoBehaviour {
 	public void OnEndDrag(){
 		if (!foi_dropado_certo_) {
 			if (estado_drop == DropState.CERTO) {
-				transform.position = drop_pos_;
 				foi_dropado_certo_ = true;
-				transform.parent.GetComponent<LvlProgress> ().notifyDropCerto ();
-				my_drop_.SetActive (false);
-				GetComponent<AudioSource> ().Play ();
+				//transform.position = drop_pos_;
+				deslizePos();
 			} else {
 				transform.parent.GetComponent<LvlProgress> ().notifyErro ();
 				transform.position = initial_pos_;	
+				if (sombra_) {
+					sombra_.SetActive (true);
+				}
 			}
+		}
+	}
+	public void coisasPosDeslize(){
+		transform.parent.GetComponent<LvlProgress> ().notifyDropCerto ();
+		my_drop_.SetActive (false);
+		GetComponent<AudioSource> ().Play ();
+		DropDeslizador d = GetComponent<DropDeslizador> ();
+		if (d.isActiveAndEnabled) {
+			GetComponent<Animator> ().SetTrigger ("dropPoin");
+		}
+	}
+	private void deslizePos(){
+		DropDeslizador d = GetComponent<DropDeslizador> ();
+		if (d.isActiveAndEnabled) {
+			d.deslize (drop_pos_);
+		} else {
+			transform.position = drop_pos_;
+			coisasPosDeslize ();
 		}
 	}
 	public void _entrouDropPoint(bool ehPtoAdequado, Vector3 drop_point_pos, GameObject drop){
