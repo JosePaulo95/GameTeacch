@@ -1,10 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\BtAudio.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\drag etc\DragDropRecipientes.cs">
     <Files>
-      <File FileName="Assets\scripts\mg\Mute.cs" Line="9" Column="37" />
-      <File FileName="Assets\scripts\mg\Config.cs" Line="22" Column="38" />
-      <File FileName="Assets\scripts\BtAudio.cs" Line="29" Column="30" />
+      <File FileName="Assets\scripts\drag etc\DropPointRecipientes.cs" Line="29" Column="23" />
+      <File FileName="Assets\scripts\drag etc\DragDropRecipientes.cs" Line="66" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

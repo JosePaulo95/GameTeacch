@@ -1,0 +1,4534 @@
+fileFormatVersion: 2
+guid: 31115b95ffb7a6940a4c5da68494445b
+timeCreated: 1531907788
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "PNG Acad\xEAmica Sheet_0"
+    21300002: "PNG Acad\xEAmica Sheet_1"
+    21300004: "PNG Acad\xEAmica Sheet_2"
+    21300006: "PNG Acad\xEAmica Sheet_3"
+    21300008: "PNG Acad\xEAmica Sheet_4"
+    21300010: "PNG Acad\xEAmica Sheet_5"
+    21300012: "PNG Acad\xEAmica Sheet_6"
+    21300014: "PNG Acad\xEAmica Sheet_7"
+    21300016: "PNG Acad\xEAmica Sheet_8"
+    21300018: "PNG Acad\xEAmica Sheet_9"
+    21300020: "PNG Acad\xEAmica Sheet_10"
+    21300022: "PNG Acad\xEAmica Sheet_11"
+    21300024: "PNG Acad\xEAmica Sheet_12"
+    21300026: "PNG Acad\xEAmica Sheet_13"
+    21300028: "PNG Acad\xEAmica Sheet_14"
+    21300030: "PNG Acad\xEAmica Sheet_15"
+    21300032: "PNG Acad\xEAmica Sheet_16"
+    21300034: "PNG Acad\xEAmica Sheet_17"
+    21300036: "PNG Acad\xEAmica Sheet_18"
+    21300038: "PNG Acad\xEAmica Sheet_19"
+    21300040: "PNG Acad\xEAmica Sheet_20"
+    21300042: "PNG Acad\xEAmica Sheet_21"
+    21300044: "PNG Acad\xEAmica Sheet_22"
+    21300046: "PNG Acad\xEAmica Sheet_23"
+    21300048: "PNG Acad\xEAmica Sheet_24"
+    21300050: "PNG Acad\xEAmica Sheet_25"
+    21300052: "PNG Acad\xEAmica Sheet_26"
+    21300054: "PNG Acad\xEAmica Sheet_27"
+    21300056: "PNG Acad\xEAmica Sheet_28"
+    21300058: "PNG Acad\xEAmica Sheet_29"
+    21300060: "PNG Acad\xEAmica Sheet_30"
+    21300062: "PNG Acad\xEAmica Sheet_31"
+    21300064: "PNG Acad\xEAmica Sheet_32"
+    21300066: "PNG Acad\xEAmica Sheet_33"
+    21300068: "PNG Acad\xEAmica Sheet_34"
+    21300070: "PNG Acad\xEAmica Sheet_35"
+    21300072: "PNG Acad\xEAmica Sheet_36"
+    21300074: "PNG Acad\xEAmica Sheet_37"
+    21300076: "PNG Acad\xEAmica Sheet_38"
+    21300078: "PNG Acad\xEAmica Sheet_39"
+    21300080: "PNG Acad\xEAmica Sheet_40"
+    21300082: "PNG Acad\xEAmica Sheet_41"
+    21300084: "PNG Acad\xEAmica Sheet_42"
+    21300086: "PNG Acad\xEAmica Sheet_43"
+    21300088: "PNG Acad\xEAmica Sheet_44"
+    21300090: "PNG Acad\xEAmica Sheet_45"
+    21300092: "PNG Acad\xEAmica Sheet_46"
+    21300094: "PNG Acad\xEAmica Sheet_47"
+    21300096: "PNG Acad\xEAmica Sheet_48"
+    21300098: "PNG Acad\xEAmica Sheet_49"
+    21300100: "PNG Acad\xEAmica Sheet_50"
+    21300102: "PNG Acad\xEAmica Sheet_51"
+    21300104: "PNG Acad\xEAmica Sheet_52"
+    21300106: "PNG Acad\xEAmica Sheet_53"
+    21300108: "PNG Acad\xEAmica Sheet_54"
+    21300110: "PNG Acad\xEAmica Sheet_55"
+    21300112: "PNG Acad\xEAmica Sheet_56"
+    21300114: "PNG Acad\xEAmica Sheet_57"
+    21300116: "PNG Acad\xEAmica Sheet_58"
+    21300118: "PNG Acad\xEAmica Sheet_59"
+    21300120: "PNG Acad\xEAmica Sheet_60"
+    21300122: "PNG Acad\xEAmica Sheet_61"
+    21300124: "PNG Acad\xEAmica Sheet_62"
+    21300126: "PNG Acad\xEAmica Sheet_63"
+    21300128: "PNG Acad\xEAmica Sheet_64"
+    21300130: "PNG Acad\xEAmica Sheet_65"
+    21300132: "PNG Acad\xEAmica Sheet_66"
+    21300134: "PNG Acad\xEAmica Sheet_67"
+    21300136: "PNG Acad\xEAmica Sheet_68"
+    21300138: "PNG Acad\xEAmica Sheet_69"
+    21300140: "PNG Acad\xEAmica Sheet_70"
+    21300142: "PNG Acad\xEAmica Sheet_71"
+    21300144: "PNG Acad\xEAmica Sheet_72"
+    21300146: "PNG Acad\xEAmica Sheet_73"
+    21300148: "PNG Acad\xEAmica Sheet_74"
+    21300150: "PNG Acad\xEAmica Sheet_75"
+    21300152: "PNG Acad\xEAmica Sheet_76"
+    21300154: "PNG Acad\xEAmica Sheet_77"
+    21300156: "PNG Acad\xEAmica Sheet_78"
+    21300158: "PNG Acad\xEAmica Sheet_79"
+    21300160: "PNG Acad\xEAmica Sheet_80"
+    21300162: "PNG Acad\xEAmica Sheet_81"
+    21300164: "PNG Acad\xEAmica Sheet_82"
+    21300166: "PNG Acad\xEAmica Sheet_83"
+    21300168: "PNG Acad\xEAmica Sheet_84"
+    21300170: "PNG Acad\xEAmica Sheet_85"
+    21300172: "PNG Acad\xEAmica Sheet_86"
+    21300174: "PNG Acad\xEAmica Sheet_87"
+    21300176: "PNG Acad\xEAmica Sheet_88"
+    21300178: "PNG Acad\xEAmica Sheet_89"
+    21300180: "PNG Acad\xEAmica Sheet_90"
+    21300182: "PNG Acad\xEAmica Sheet_91"
+    21300184: "PNG Acad\xEAmica Sheet_92"
+    21300186: "PNG Acad\xEAmica Sheet_93"
+    21300188: "PNG Acad\xEAmica Sheet_94"
+    21300190: "PNG Acad\xEAmica Sheet_95"
+    21300192: "PNG Acad\xEAmica Sheet_96"
+    21300194: "PNG Acad\xEAmica Sheet_97"
+    21300196: "PNG Acad\xEAmica Sheet_98"
+    21300198: "PNG Acad\xEAmica Sheet_99"
+    21300200: "PNG Acad\xEAmica Sheet_100"
+    21300202: "PNG Acad\xEAmica Sheet_101"
+    21300204: "PNG Acad\xEAmica Sheet_102"
+    21300206: "PNG Acad\xEAmica Sheet_103"
+    21300208: "PNG Acad\xEAmica Sheet_104"
+    21300210: "PNG Acad\xEAmica Sheet_105"
+    21300212: "PNG Acad\xEAmica Sheet_106"
+    21300214: "PNG Acad\xEAmica Sheet_107"
+    21300216: "PNG Acad\xEAmica Sheet_108"
+    21300218: "PNG Acad\xEAmica Sheet_109"
+    21300220: "PNG Acad\xEAmica Sheet_110"
+    21300222: "PNG Acad\xEAmica Sheet_111"
+    21300224: "PNG Acad\xEAmica Sheet_112"
+    21300226: "PNG Acad\xEAmica Sheet_113"
+    21300228: "PNG Acad\xEAmica Sheet_114"
+    21300230: "PNG Acad\xEAmica Sheet_115"
+    21300232: "PNG Acad\xEAmica Sheet_116"
+    21300234: "PNG Acad\xEAmica Sheet_117"
+    21300236: "PNG Acad\xEAmica Sheet_118"
+    21300238: "PNG Acad\xEAmica Sheet_119"
+    21300240: "PNG Acad\xEAmica Sheet_120"
+    21300242: "PNG Acad\xEAmica Sheet_121"
+    21300244: "PNG Acad\xEAmica Sheet_122"
+    21300246: "PNG Acad\xEAmica Sheet_123"
+    21300248: "PNG Acad\xEAmica Sheet_124"
+    21300250: "PNG Acad\xEAmica Sheet_125"
+    21300252: "PNG Acad\xEAmica Sheet_126"
+    21300254: "PNG Acad\xEAmica Sheet_127"
+    21300256: "PNG Acad\xEAmica Sheet_128"
+    21300258: "PNG Acad\xEAmica Sheet_129"
+    21300260: "PNG Acad\xEAmica Sheet_130"
+    21300262: "PNG Acad\xEAmica Sheet_131"
+    21300264: "PNG Acad\xEAmica Sheet_132"
+    21300266: "PNG Acad\xEAmica Sheet_133"
+    21300268: "PNG Acad\xEAmica Sheet_134"
+    21300270: "PNG Acad\xEAmica Sheet_135"
+    21300272: "PNG Acad\xEAmica Sheet_136"
+    21300274: "PNG Acad\xEAmica Sheet_137"
+    21300276: "PNG Acad\xEAmica Sheet_138"
+    21300278: "PNG Acad\xEAmica Sheet_139"
+    21300280: "PNG Acad\xEAmica Sheet_140"
+    21300282: "PNG Acad\xEAmica Sheet_141"
+    21300284: "PNG Acad\xEAmica Sheet_142"
+    21300286: "PNG Acad\xEAmica Sheet_143"
+    21300288: "PNG Acad\xEAmica Sheet_144"
+    21300290: "PNG Acad\xEAmica Sheet_145"
+    21300292: "PNG Acad\xEAmica Sheet_146"
+    21300294: "PNG Acad\xEAmica Sheet_147"
+    21300296: "PNG Acad\xEAmica Sheet_148"
+    21300298: "PNG Acad\xEAmica Sheet_149"
+    21300300: "PNG Acad\xEAmica Sheet_150"
+    21300302: "PNG Acad\xEAmica Sheet_151"
+    21300304: "PNG Acad\xEAmica Sheet_152"
+    21300306: "PNG Acad\xEAmica Sheet_153"
+    21300308: "PNG Acad\xEAmica Sheet_154"
+    21300310: "PNG Acad\xEAmica Sheet_155"
+    21300312: "PNG Acad\xEAmica Sheet_156"
+    21300314: "PNG Acad\xEAmica Sheet_157"
+    21300316: "PNG Acad\xEAmica Sheet_158"
+    21300318: "PNG Acad\xEAmica Sheet_159"
+    21300320: "PNG Acad\xEAmica Sheet_160"
+    21300322: "PNG Acad\xEAmica Sheet_161"
+    21300324: "PNG Acad\xEAmica Sheet_162"
+    21300326: "PNG Acad\xEAmica Sheet_163"
+    21300328: "PNG Acad\xEAmica Sheet_164"
+    21300330: "PNG Acad\xEAmica Sheet_165"
+    21300332: "PNG Acad\xEAmica Sheet_166"
+    21300334: "PNG Acad\xEAmica Sheet_167"
+    21300336: "PNG Acad\xEAmica Sheet_168"
+    21300338: "PNG Acad\xEAmica Sheet_169"
+    21300340: "PNG Acad\xEAmica Sheet_170"
+    21300342: "PNG Acad\xEAmica Sheet_171"
+    21300344: "PNG Acad\xEAmica Sheet_172"
+    21300346: "PNG Acad\xEAmica Sheet_173"
+    21300348: "PNG Acad\xEAmica Sheet_174"
+    21300350: "PNG Acad\xEAmica Sheet_175"
+    21300352: "PNG Acad\xEAmica Sheet_176"
+    21300354: "PNG Acad\xEAmica Sheet_177"
+    21300356: "PNG Acad\xEAmica Sheet_178"
+    21300358: "PNG Acad\xEAmica Sheet_179"
+    21300360: "PNG Acad\xEAmica Sheet_180"
+    21300362: "PNG Acad\xEAmica Sheet_181"
+    21300364: "PNG Acad\xEAmica Sheet_182"
+    21300366: "PNG Acad\xEAmica Sheet_183"
+    21300368: "PNG Acad\xEAmica Sheet_184"
+    21300370: "PNG Acad\xEAmica Sheet_185"
+    21300372: "PNG Acad\xEAmica Sheet_186"
+    21300374: "PNG Acad\xEAmica Sheet_187"
+    21300376: "PNG Acad\xEAmica Sheet_188"
+    21300378: "PNG Acad\xEAmica Sheet_189"
+    21300380: "PNG Acad\xEAmica Sheet_190"
+    21300382: "PNG Acad\xEAmica Sheet_191"
+    21300384: "PNG Acad\xEAmica Sheet_192"
+    21300386: "PNG Acad\xEAmica Sheet_193"
+    21300388: "PNG Acad\xEAmica Sheet_194"
+    21300390: "PNG Acad\xEAmica Sheet_195"
+    21300392: "PNG Acad\xEAmica Sheet_196"
+    21300394: "PNG Acad\xEAmica Sheet_197"
+    21300396: "PNG Acad\xEAmica Sheet_198"
+    21300398: "PNG Acad\xEAmica Sheet_199"
+    21300400: "PNG Acad\xEAmica Sheet_200"
+    21300402: "PNG Acad\xEAmica Sheet_201"
+    21300404: "PNG Acad\xEAmica Sheet_202"
+    21300406: "PNG Acad\xEAmica Sheet_203"
+    21300408: "PNG Acad\xEAmica Sheet_204"
+    21300410: "PNG Acad\xEAmica Sheet_205"
+    21300412: "PNG Acad\xEAmica Sheet_206"
+    21300414: "PNG Acad\xEAmica Sheet_207"
+    21300416: "PNG Acad\xEAmica Sheet_208"
+    21300418: "PNG Acad\xEAmica Sheet_209"
+    21300420: "PNG Acad\xEAmica Sheet_210"
+    21300422: "PNG Acad\xEAmica Sheet_211"
+    21300424: "PNG Acad\xEAmica Sheet_212"
+    21300426: "PNG Acad\xEAmica Sheet_213"
+    21300428: "PNG Acad\xEAmica Sheet_214"
+    21300430: "PNG Acad\xEAmica Sheet_215"
+    21300432: "PNG Acad\xEAmica Sheet_216"
+    21300434: "PNG Acad\xEAmica Sheet_217"
+    21300436: "PNG Acad\xEAmica Sheet_218"
+    21300438: "PNG Acad\xEAmica Sheet_219"
+    21300440: "PNG Acad\xEAmica Sheet_220"
+    21300442: "PNG Acad\xEAmica Sheet_221"
+    21300444: "PNG Acad\xEAmica Sheet_222"
+    21300446: "PNG Acad\xEAmica Sheet_223"
+    21300448: "PNG Acad\xEAmica Sheet_224"
+    21300450: "PNG Acad\xEAmica Sheet_225"
+    21300452: "PNG Acad\xEAmica Sheet_226"
+    21300454: "PNG Acad\xEAmica Sheet_227"
+    21300456: "PNG Acad\xEAmica Sheet_228"
+    21300458: "PNG Acad\xEAmica Sheet_229"
+    21300460: "PNG Acad\xEAmica Sheet_230"
+    21300462: "PNG Acad\xEAmica Sheet_231"
+    21300464: "PNG Acad\xEAmica Sheet_232"
+    21300466: "PNG Acad\xEAmica Sheet_233"
+    21300468: "PNG Acad\xEAmica Sheet_234"
+    21300470: "PNG Acad\xEAmica Sheet_235"
+    21300472: "PNG Acad\xEAmica Sheet_236"
+    21300474: "PNG Acad\xEAmica Sheet_237"
+    21300476: "PNG Acad\xEAmica Sheet_238"
+    21300478: "PNG Acad\xEAmica Sheet_239"
+    21300480: "PNG Acad\xEAmica Sheet_240"
+    21300482: "PNG Acad\xEAmica Sheet_241"
+    21300484: "PNG Acad\xEAmica Sheet_242"
+    21300486: "PNG Acad\xEAmica Sheet_243"
+    21300488: "PNG Acad\xEAmica Sheet_244"
+    21300490: "PNG Acad\xEAmica Sheet_245"
+    21300492: "PNG Acad\xEAmica Sheet_246"
+    21300494: "PNG Acad\xEAmica Sheet_247"
+    21300496: "PNG Acad\xEAmica Sheet_248"
+    21300498: "PNG Acad\xEAmica Sheet_249"
+    21300500: "PNG Acad\xEAmica Sheet_250"
+    21300502: "PNG Acad\xEAmica Sheet_251"
+    21300504: "PNG Acad\xEAmica Sheet_252"
+    21300506: "PNG Acad\xEAmica Sheet_253"
+    21300508: "PNG Acad\xEAmica Sheet_254"
+    21300510: "PNG Acad\xEAmica Sheet_255"
+    21300512: "PNG Acad\xEAmica Sheet_256"
+    21300514: "PNG Acad\xEAmica Sheet_257"
+    21300516: "PNG Acad\xEAmica Sheet_258"
+    21300518: "PNG Acad\xEAmica Sheet_259"
+    21300520: "PNG Acad\xEAmica Sheet_260"
+    21300522: "PNG Acad\xEAmica Sheet_261"
+    21300524: "PNG Acad\xEAmica Sheet_262"
+    21300526: "PNG Acad\xEAmica Sheet_263"
+    21300528: "PNG Acad\xEAmica Sheet_264"
+    21300530: "PNG Acad\xEAmica Sheet_265"
+    21300532: "PNG Acad\xEAmica Sheet_266"
+    21300534: "PNG Acad\xEAmica Sheet_267"
+    21300536: "PNG Acad\xEAmica Sheet_268"
+    21300538: "PNG Acad\xEAmica Sheet_269"
+    21300540: "PNG Acad\xEAmica Sheet_270"
+    21300542: "PNG Acad\xEAmica Sheet_271"
+    21300544: "PNG Acad\xEAmica Sheet_272"
+    21300546: "PNG Acad\xEAmica Sheet_273"
+    21300548: "PNG Acad\xEAmica Sheet_274"
+    21300550: "PNG Acad\xEAmica Sheet_275"
+    21300552: "PNG Acad\xEAmica Sheet_276"
+    21300554: "PNG Acad\xEAmica Sheet_277"
+    21300556: "PNG Acad\xEAmica Sheet_278"
+    21300558: "PNG Acad\xEAmica Sheet_279"
+    21300560: "PNG Acad\xEAmica Sheet_280"
+    21300562: "PNG Acad\xEAmica Sheet_281"
+    21300564: "PNG Acad\xEAmica Sheet_282"
+    21300566: "PNG Acad\xEAmica Sheet_283"
+    21300568: "PNG Acad\xEAmica Sheet_284"
+    21300570: "PNG Acad\xEAmica Sheet_285"
+    21300572: "PNG Acad\xEAmica Sheet_286"
+    21300574: "PNG Acad\xEAmica Sheet_287"
+    21300576: "PNG Acad\xEAmica Sheet_288"
+    21300578: "PNG Acad\xEAmica Sheet_289"
+    21300580: "PNG Acad\xEAmica Sheet_290"
+    21300582: "PNG Acad\xEAmica Sheet_291"
+    21300584: "PNG Acad\xEAmica Sheet_292"
+    21300586: "PNG Acad\xEAmica Sheet_293"
+    21300588: "PNG Acad\xEAmica Sheet_294"
+    21300590: "PNG Acad\xEAmica Sheet_295"
+    21300592: "PNG Acad\xEAmica Sheet_296"
+    21300594: "PNG Acad\xEAmica Sheet_297"
+    21300596: "PNG Acad\xEAmica Sheet_298"
+    21300598: "PNG Acad\xEAmica Sheet_299"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 6612
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 6612
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 6612
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 6612
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 6612
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 6612
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 6612
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 6384
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_18"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_19"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_20"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_22"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_23"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_24"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_25"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_26"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 6156
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_28"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_29"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_30"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_31"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_32"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_33"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_34"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_35"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_36"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 5928
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_37"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_38"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_39"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_40"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_41"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_42"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_43"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_44"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_45"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_46"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 5700
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_47"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_48"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_49"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_50"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_51"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_52"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_53"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_54"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_55"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_56"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 5472
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_57"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_58"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_59"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_60"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_61"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_62"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_63"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_64"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_65"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_66"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 5244
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_67"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_68"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_69"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_70"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_71"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_72"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_73"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_74"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_75"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_76"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 5016
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_77"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_78"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_79"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_80"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_81"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_82"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_83"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_84"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_85"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_86"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 4788
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_87"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_88"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_89"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_90"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_91"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_92"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_93"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_94"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_95"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_96"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 4560
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_97"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_98"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_99"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_100"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_101"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_102"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_103"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_104"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_105"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_106"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 4332
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_107"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_108"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_109"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_110"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_111"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_112"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_113"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_114"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_115"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_116"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 4104
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_117"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_118"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_119"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_120"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_121"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_122"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_123"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_124"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_125"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_126"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 3876
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_127"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_128"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_129"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_130"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_131"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_132"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_133"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_134"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_135"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_136"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 3648
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_137"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_138"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_139"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_140"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_141"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_142"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_143"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_144"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_145"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_146"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 3420
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_147"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_148"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_149"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_150"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_151"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_152"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_153"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_154"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_155"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_156"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 3192
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_157"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_158"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_159"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_160"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_161"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_162"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_163"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_164"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_165"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_166"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 2964
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_167"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_168"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_169"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_170"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_171"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_172"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_173"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_174"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_175"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_176"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 2736
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_177"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_178"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_179"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_180"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_181"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_182"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_183"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_184"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_185"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_186"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 2508
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_187"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_188"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_189"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_190"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_191"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_192"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_193"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_194"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_195"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_196"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 2280
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_197"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_198"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_199"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_200"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_201"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_202"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_203"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_204"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_205"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_206"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 2052
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_207"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_208"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_209"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_210"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_211"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_212"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_213"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_214"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_215"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_216"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 1824
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_217"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_218"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_219"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_220"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_221"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_222"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_223"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_224"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_225"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_226"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 1596
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_227"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_228"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_229"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_230"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_231"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_232"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_233"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_234"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_235"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_236"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 1368
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_237"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_238"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_239"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_240"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_241"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_242"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_243"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_244"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_245"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_246"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 1140
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_247"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_248"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_249"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_250"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_251"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_252"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_253"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_254"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_255"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_256"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 912
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_257"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_258"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_259"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_260"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_261"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_262"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_263"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_264"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_265"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_266"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 684
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_267"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_268"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_269"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_270"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_271"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_272"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_273"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_274"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_275"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_276"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 456
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_277"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_278"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_279"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_280"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_281"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_282"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_283"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_284"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_285"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_286"
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 228
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_287"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_288"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_289"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 0
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_290"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 0
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_291"
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 0
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_292"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 0
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_293"
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 0
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_294"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 0
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "PNG Acad\xEAmica Sheet_295"
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 0
+        width: 620
+        height: 225
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
